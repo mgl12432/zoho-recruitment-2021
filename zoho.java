@@ -10,7 +10,6 @@ public class zoho
         Scanner scanner = new Scanner(System.in);
 
         num = scanner.nextInt();
-        current=num;
 
         for(int i=num; i>=1;i--)
         {
