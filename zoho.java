@@ -5,7 +5,7 @@ public class zoho
 {
     public static void main(String[]args)
     {
-        int num,current;
+        int num;
 
         Scanner scanner = new Scanner(System.in);
 
@@ -26,7 +26,6 @@ public class zoho
                 }
             }
             System.out.println();
-            current--;
         }
     }
     
