@@ -18,7 +18,7 @@ public class zoho
             {
                 if(i >= j)
                 {
-                    System.out.print(current);
+                    System.out.print(i);
                 }
                 else
                 {
